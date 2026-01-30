@@ -1,0 +1,14 @@
+C:\Users\Dell\C# projects\bin\Debug\net10.0\C# projects.exe
+C:\Users\Dell\C# projects\bin\Debug\net10.0\C# projects.deps.json
+C:\Users\Dell\C# projects\bin\Debug\net10.0\C# projects.runtimeconfig.json
+C:\Users\Dell\C# projects\bin\Debug\net10.0\C# projects.dll
+C:\Users\Dell\C# projects\bin\Debug\net10.0\C# projects.pdb
+C:\Users\Dell\C# projects\obj\Debug\net10.0\C# projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\C# projects\obj\Debug\net10.0\C# projects.AssemblyInfoInputs.cache
+C:\Users\Dell\C# projects\obj\Debug\net10.0\C# projects.AssemblyInfo.cs
+C:\Users\Dell\C# projects\obj\Debug\net10.0\C# projects.csproj.CoreCompileInputs.cache
+C:\Users\Dell\C# projects\obj\Debug\net10.0\C# projects.dll
+C:\Users\Dell\C# projects\obj\Debug\net10.0\refint\C# projects.dll
+C:\Users\Dell\C# projects\obj\Debug\net10.0\C# projects.pdb
+C:\Users\Dell\C# projects\obj\Debug\net10.0\C# projects.genruntimeconfig.cache
+C:\Users\Dell\C# projects\obj\Debug\net10.0\ref\C# projects.dll
